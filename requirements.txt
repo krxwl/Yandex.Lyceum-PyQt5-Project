@@ -1,0 +1,4 @@
+sys
+webbrowser
+sqlite3
+PyQt5
